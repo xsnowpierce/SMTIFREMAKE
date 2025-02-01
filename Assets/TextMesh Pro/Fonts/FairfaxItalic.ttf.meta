@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 2e9169f06357a19478a3535d2f2095c5
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Fairfax
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 45d422461b463ad44b3af3b1b854719f, type: 3}
+  - {fileID: 12800000, guid: c2dcdffeac0a2cb479059ec311c71e73, type: 3}
+  customCharacters: 
+  fontRenderingMode: 2
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

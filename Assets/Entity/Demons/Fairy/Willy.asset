@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73e2aa1975b48a443ab0183fb67d9d76, type: 3}
+  m_Name: Willy
+  m_EditorClassIdentifier: 
+  entityName: willy
+  race: 20
+  sprites:
+  - {fileID: 1091955471, guid: ccdf76a4416285f47895928ae22b4167, type: 3}
+  - {fileID: 1097377867, guid: ccdf76a4416285f47895928ae22b4167, type: 3}
+  spriteSpeed: 0.16
+  spriteHeight: 0
+  level: 2
+  health: 999
+  mana: 999
+  skills:
+  - {fileID: 11400000, guid: b322532b230911c4b8c460548e6e1429, type: 2}
+  - {fileID: 11400000, guid: cae34f3c43695384ea5d2f2201b0076d, type: 2}
+  - {fileID: 11400000, guid: 5d9ea9933f9082b43be66dd53f365457, type: 2}
+  currentStatus: 0
+  stats:
+    strength: 1
+    intelligence: 3
+    magic: 5
+    vitality: 2
+    agility: 4
+    luck: 5
+  Resistances:
+    physical: 0
+    gun: 0
+    fire: 1
+    ice: 3
+    electricity: 0
+    force: 0
+    nerve: 0
+    expel: 0
+    curse: 1
+    almighty: 0
+  magical: 0
+  bind: 0
+  aiType: {fileID: 11400000, guid: d1a6572e049d4be46803b3d4cbbf52ef, type: 2}
+  meleeAttackType: 1
+  costPerTurn: 2
+  inheritType: 4
+  droppedItems: []
+  darkLight: 0.5
+  chaosLaw: 0.5

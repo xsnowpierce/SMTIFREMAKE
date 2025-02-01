@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08b78ccd2f3a4574c959acfe3e2732c0, type: 3}
+  m_Name: NovaQuestion10
+  m_EditorClassIdentifier: 
+  englishQuestion: If you found a wallet with 10,000 yen in it, what would you do?
+  japaneseQuestion: "\uFF11\u4E07\u30A8\u30F3\u5165\u308A\u306E\u30B5\u30A4\u30D5\u3092\u62FE\u3044\u307E\u3057\u305F\u3002\u3069\u3046\u3057\u307E\u3059\u304B\uFF1F"
+  choices:
+  - englishText: Take it to the police station.
+    japaneseText: "\u3053\u3046\u3073\u3093\u306B\u3068\u3069\u3051\u308B"
+    pointsAdded: 0
+  - englishText: Keep it to yourself.
+    japaneseText: "\u3072\u3068\u308A\u3058\u3081\u3059\u308B"
+    pointsAdded: 1
+  - englishText: Split the cash with friends.
+    japaneseText: "\u307F\u3093\u306A\u3067\u308F\u3051\u308B"
+    pointsAdded: 2
+  - englishText: Throw away the money, and keep the wallet
+    japaneseText: "\u304B\u306D\u3092\u3059\u3066\u30B5\u30A4\u30D5\u3092\u3082\u3089\u3046"
+    pointsAdded: 3

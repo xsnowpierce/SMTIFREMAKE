@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7092a21c79789bc4c84995a5da33debd, type: 3}
+  m_Name: Classroom
+  m_EditorClassIdentifier: 
+  roomPrefab: {fileID: 8067279077948877469, guid: 09f82a215e5dc7c449ebe9f9049c33fd, type: 3}
+  spritePosition: {x: 0, y: -3.07, z: 28.73}
+  playerPosition: {x: 0, y: -0.07, z: 3.52}
+  nearClipPlane: 16.91
+  farClipPlane: 65
+  FOV: 22.1

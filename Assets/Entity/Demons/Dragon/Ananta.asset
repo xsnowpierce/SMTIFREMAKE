@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73e2aa1975b48a443ab0183fb67d9d76, type: 3}
+  m_Name: Ananta
+  m_EditorClassIdentifier: 
+  entityName: ananta
+  race: 10
+  sprites:
+  - {fileID: 1487560826, guid: 277c11b779d9c5d4b8c66d47bedcbf55, type: 3}
+  - {fileID: -229159412, guid: 277c11b779d9c5d4b8c66d47bedcbf55, type: 3}
+  spriteSpeed: 0.24
+  spriteHeight: 0
+  level: 69
+  health: 999
+  mana: 999
+  skills:
+  - {fileID: 11400000, guid: a6909aac7ee33f54eb517238c461a269, type: 2}
+  - {fileID: 11400000, guid: 5859d4df5640f5343b46e3523758a995, type: 2}
+  currentStatus: 0
+  stats:
+    strength: 28
+    intelligence: 17
+    magic: 17
+    vitality: 21
+    agility: 13
+    luck: 13
+  Resistances:
+    physical: 0
+    gun: 0
+    fire: 1
+    ice: 1
+    electricity: 1
+    force: 0
+    nerve: 1
+    expel: 1
+    curse: 1
+  magical: 0
+  bind: 1
+  aiType: {fileID: 11400000, guid: d1a6572e049d4be46803b3d4cbbf52ef, type: 2}
+  meleeAttackType: 1
+  costPerTurn: 106
+  inheritType: 4
+  droppedItems: []
+  darkLight: 1
+  chaosLaw: 0

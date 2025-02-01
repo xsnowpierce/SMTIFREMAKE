@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2184205771865389076
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2184205771865389079}
+  - component: {fileID: 2184205771865389078}
+  m_Layer: 0
+  m_Name: Databases
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2184205771865389079
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2184205771865389076}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2184205771865389078
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2184205771865389076}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22da7afcad6d83c44897110026baaa3d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadLanguage: 0
+  items: {fileID: 11400000, guid: cd2c61b895a261d4398d3195632f3b85, type: 2}
+  sprites: {fileID: 11400000, guid: 98b7de8feb9be524db9e4f527a419fca, type: 2}
+  maps: {fileID: 11400000, guid: 0ce40df21c9d7ec4080e65b6dcd688bf, type: 2}
+  entityDatabase: {fileID: 11400000, guid: 94372411a639c394fab7229b506f1539, type: 2}
+  languages:
+  - textFile: {fileID: 4900000, guid: 61d5f9583cf7b0842bdb4fc68befb697, type: 3}
+    nameFile: {fileID: 4900000, guid: 0198736f912a9b045bf261aeca9ae49f, type: 3}
+    itemFile: {fileID: 4900000, guid: 8dedf94aa53b3a34e8151d604a3c5d3e, type: 3}
+    uiFile: {fileID: 4900000, guid: d2585664ec18c2b45b4050ae7653b2c0, type: 3}
+    skillFile: {fileID: 4900000, guid: f5cb2415ae38bbd4382368cf1a35283e, type: 3}
+    raceFile: {fileID: 4900000, guid: 3ac81edf0396c0842a5111f90fcf3584, type: 3}
+  elementSprites:
+  - {fileID: 21300000, guid: 7ddca3704560b5e4da5bd65db15f8593, type: 3}
+  - {fileID: 21300000, guid: aaf55703b62adc44f930d0128e1788f1, type: 3}
+  - {fileID: 21300000, guid: 9c84933086cc7954e88a7799c2725fde, type: 3}
+  - {fileID: 21300000, guid: 141efd2356e093141a64489ab0adfdd5, type: 3}
+  - {fileID: 21300000, guid: 9a1209f068838dd42ab29bb7b3626cbf, type: 3}
+  - {fileID: 21300000, guid: 1ec4f4952dad4ed4aab348b74d8eac77, type: 3}
+  - {fileID: 21300000, guid: 6adc7e9153c014a47a62c6b56fa76c39, type: 3}
+  - {fileID: 21300000, guid: ebb5ed37fcfa5f746a261a87a0935a7c, type: 3}
+  - {fileID: 21300000, guid: 74b9f33413d71474485e66e94da3bacb, type: 3}
+  - {fileID: 21300000, guid: a530385fa073fa6448fd6482af879b05, type: 3}
+  - {fileID: 21300000, guid: 1262012bbf4c6884a9baf4442b0a1284, type: 3}
+  - {fileID: 21300000, guid: b9dac6ce2a3775347bee185aeac8d73e, type: 3}
+  buttonIcons: {fileID: 11400000, guid: a5970fcded07f464e93ea15979594688, type: 2}
+  resistanceWeak: {fileID: 21300000, guid: d2b06bd18ddbafa4db6e345ccf055c01, type: 3}
+  resistanceNeutral: {fileID: 21300000, guid: 86d1fa7054624454f907a78c2c60c890, type: 3}
+  resistanceResist: {fileID: 21300000, guid: 7bc94a86aedb5254581992d47a0a92fe, type: 3}
+  resistanceRepel: {fileID: 21300000, guid: 57789391dc6c4044a9b9779333d43b7a, type: 3}
+  resistanceAbsorb: {fileID: 21300000, guid: 710728fc5aa75da429bd638cf794b021, type: 3}
+  resistanceNull: {fileID: 21300000, guid: 7d9c7d4390a28bc408d048dfd648ab60, type: 3}

@@ -1,0 +1,237 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd5f4284d51cbb6498e2b2866b5334e6, type: 3}
+  m_Name: SNES Music Pack
+  m_EditorClassIdentifier: 
+  music:
+  - musicID: school
+    song: {fileID: 0}
+    loopPoint: 16.008
+  - musicID: classroom
+    song: {fileID: 0}
+    loopPoint: 16.387
+  title:
+    musicID: 
+    song: {fileID: 0}
+    loopPoint: 0
+  levelUp:
+    musicID: 
+    song: {fileID: 0}
+    loopPoint: 0
+  enemyAppearance:
+    musicID: 
+    song: {fileID: 8300000, guid: 0e1bc2232d366d7459a8a7701cf6189c, type: 3}
+    loopPoint: 0
+  battle:
+    musicID: 
+    song: {fileID: 8300000, guid: 08c3ca63903a5b443a67afa73be9ef6f, type: 3}
+    loopPoint: 1.2981
+  bossBattle:
+    musicID: 
+    song: {fileID: 0}
+    loopPoint: 0
+  hazamaBattle:
+    musicID: 
+    song: {fileID: 0}
+    loopPoint: 0
+  majin:
+    musicID: 
+    song: {fileID: 0}
+    loopPoint: 0
+  alice:
+    musicID: 
+    song: {fileID: 0}
+    loopPoint: 0
+  schoolBGM:
+    musicID: 
+    song: {fileID: 8300000, guid: 2a6ed625ffdab4c4483c6426da9c200d, type: 3}
+    loopPoint: 16.008
+  envyDungeon:
+    musicID: 
+    song: {fileID: 0}
+    loopPoint: 0
+  gluttonyDungeon:
+    musicID: 
+    song: {fileID: 0}
+    loopPoint: 0
+  greedDungeon:
+    musicID: 
+    song: {fileID: 0}
+    loopPoint: 0
+  slothDungeon:
+    musicID: 
+    song: {fileID: 0}
+    loopPoint: 0
+  wrathDungeon:
+    musicID: 
+    song: {fileID: 0}
+    loopPoint: 0
+  prideDungeon:
+    musicID: 
+    song: {fileID: 0}
+    loopPoint: 0
+  orcusDungeon:
+    musicID: 
+    song: {fileID: 0}
+    loopPoint: 0
+  envyDungeonEvent:
+    musicID: 
+    song: {fileID: 0}
+    loopPoint: 0
+  akiraBossBattle:
+    musicID: 
+    song: {fileID: 0}
+    loopPoint: 0
+  akiraEnemyEncounter:
+    musicID: 
+    song: {fileID: 0}
+    loopPoint: 0
+  akiraBattle:
+    musicID: 
+    song: {fileID: 0}
+    loopPoint: 0
+  akiraLevelUp:
+    musicID: 
+    song: {fileID: 0}
+    loopPoint: 0
+  akiraOldEnemy:
+    musicID: 
+    song: {fileID: 0}
+    loopPoint: 0
+  ending:
+    musicID: 
+    song: {fileID: 0}
+    loopPoint: 0
+  staffRoll:
+    musicID: 
+    song: {fileID: 0}
+    loopPoint: 0
+  sanzuRiver:
+    musicID: 
+    song: {fileID: 0}
+    loopPoint: 0
+  firstNomos:
+    musicID: 
+    song: {fileID: 0}
+    loopPoint: 0
+  earthNomos:
+    musicID: 
+    song: {fileID: 0}
+    loopPoint: 0
+  casino:
+    musicID: 
+    song: {fileID: 0}
+    loopPoint: 0
+  makaiCity:
+    musicID: 
+    song: {fileID: 0}
+    loopPoint: 0
+  shop:
+    musicID: 
+    song: {fileID: 0}
+    loopPoint: 0
+  classroom:
+    musicID: 
+    song: {fileID: 8300000, guid: f8bf1fa09b750e449a8ed8e303fdf672, type: 3}
+    loopPoint: 16.387
+  jakyoManor:
+    musicID: 
+    song: {fileID: 0}
+    loopPoint: 0
+  fusion:
+    musicID: 
+    song: {fileID: 0}
+    loopPoint: 0
+  computerLab:
+    musicID: 
+    song: {fileID: 0}
+    loopPoint: 0
+  principalOffice:
+    musicID: 
+    song: {fileID: 0}
+    loopPoint: 0
+  dimensionPortal:
+    musicID: 
+    song: {fileID: 0}
+    loopPoint: 0
+  casino2:
+    musicID: 
+    song: {fileID: 0}
+    loopPoint: 0
+  spiritualWorld:
+    musicID: 
+    song: {fileID: 0}
+    loopPoint: 0
+  fortuneTeller:
+    musicID: 
+    song: {fileID: 0}
+    loopPoint: 0
+  ringRecieve:
+    musicID: 
+    song: {fileID: 0}
+    loopPoint: 0
+  recoveryFountain:
+    musicID: 
+    song: {fileID: 0}
+    loopPoint: 0
+  hazamaAppearance:
+    musicID: 
+    song: {fileID: 0}
+    loopPoint: 0
+  chamberSeal:
+    musicID: 
+    song: {fileID: 0}
+    loopPoint: 0
+  karukozakaSchoolSong:
+    musicID: 
+    song: {fileID: 0}
+    loopPoint: 0
+  terminal1:
+    musicID: 
+    song: {fileID: 0}
+    loopPoint: 0
+  terminal2:
+    musicID: 
+    song: {fileID: 0}
+    loopPoint: 0
+  terminal3:
+    musicID: 
+    song: {fileID: 0}
+    loopPoint: 0
+  jakyoManor2:
+    musicID: 
+    song: {fileID: 0}
+    loopPoint: 0
+  karokozakaSchoolSongEnding:
+    musicID: 
+    song: {fileID: 0}
+    loopPoint: 0
+  dejaVu:
+    musicID: 
+    song: {fileID: 0}
+    loopPoint: 0
+  flute:
+    musicID: 
+    song: {fileID: 0}
+    loopPoint: 0
+  enkaSuccess:
+    musicID: 
+    song: {fileID: 0}
+    loopPoint: 0
+  enkaFailure:
+    musicID: 
+    song: {fileID: 0}
+    loopPoint: 0
+  unknown:
+    musicID: 
+    song: {fileID: 0}
+    loopPoint: 0

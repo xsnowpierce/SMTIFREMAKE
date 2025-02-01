@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd5f4284d51cbb6498e2b2866b5334e6, type: 3}
+  m_Name: PS1 Music Pack
+  m_EditorClassIdentifier: 
+  music:
+  - musicID: school
+    song: {fileID: 8300000, guid: bbcb7fa60dea4ff4992213ed1cf6c919, type: 3}
+    songLoop: {fileID: 8300000, guid: cbe3927d9ea79cc429d1fcf4ddcd253b, type: 3}
+  - musicID: classroom
+    song: {fileID: 8300000, guid: a90430fa944ed044fa4fc11d1d11098d, type: 3}
+    songLoop: {fileID: 8300000, guid: 282038f3fdea69a469bcd209934f69d1, type: 3}
+  - musicID: computerLab
+    song: {fileID: 8300000, guid: 82f95641dafc33e449184104481c3a14, type: 3}
+    songLoop: {fileID: 8300000, guid: 841c6cf267fb1a4488ddea5ae70b1438, type: 3}
+  - musicID: principalsOffice
+    song: {fileID: 8300000, guid: 036be47de498fce43a5b9148355f3ff7, type: 3}
+    songLoop: {fileID: 0}
+  - musicID: dimensionalPortal
+    song: {fileID: 8300000, guid: 7fa40b8164f036f41b42f7b33d8d923f, type: 3}
+    songLoop: {fileID: 0}
+  - musicID: outsideAmbient
+    song: {fileID: 8300000, guid: 7a5a2f1898854e4428dca3b2ed9315ea, type: 3}
+    songLoop: {fileID: 8300000, guid: 232f71b25f7d6884ea935f2da7dfc8ef, type: 3}
+  - musicID: normalBattle
+    song: {fileID: 8300000, guid: b51c279c2ce4a2b47b4c1c247e4460d2, type: 3}
+    songLoop: {fileID: 8300000, guid: f27e4e86f9ddfb447ae4030e419415ec, type: 3}
+  - musicID: normalEncounter
+    song: {fileID: 8300000, guid: d30b5ea81aba5054cb950467bbc3c727, type: 3}
+    songLoop: {fileID: 0}
+  - musicID: normalLevelup
+    song: {fileID: 8300000, guid: a22873f69cff9ff4e9f3a8d00a4743fc, type: 3}
+    songLoop: {fileID: 8300000, guid: 6cc42a314c01a44429138041acc8f47c, type: 3}
+  - musicID: street
+    song: {fileID: 8300000, guid: 076c6ce10f928c94f9ef154774adb5b7, type: 3}
+    songLoop: {fileID: 0}
+  - musicID: bossBattle
+    song: {fileID: 8300000, guid: 81419aca7f872b240b7e567a9c12b0a5, type: 3}
+    songLoop: {fileID: 0}
+  - musicID: bossBattle
+    song: {fileID: 8300000, guid: 81419aca7f872b240b7e567a9c12b0a5, type: 3}
+    songLoop: {fileID: 0}
+  - musicID: akiraLevelup
+    song: {fileID: 8300000, guid: dfef95397dd0ac4439d04b518dda85fd, type: 3}
+    songLoop: {fileID: 8300000, guid: 609fb7bb41061cc43815ed5c9316bcf6, type: 3}

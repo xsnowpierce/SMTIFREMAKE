@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08b78ccd2f3a4574c959acfe3e2732c0, type: 3}
+  m_Name: NovaQuestion11F
+  m_EditorClassIdentifier: 
+  englishQuestion: What kind of panties are you wearing?
+  japaneseQuestion: 
+  choices:
+  - englishText: Cotton
+    japaneseText: "\u30B3\u30C3\u30C8\u30F3"
+    pointsAdded: 2
+  - englishText: Silk
+    japaneseText: "\u30B7\u30EB\u30AF"
+    pointsAdded: 0
+  - englishText: No comment
+    japaneseText: "\u30CE\u30FC\u30B3\u30E1\u30F3\u30C8"
+    pointsAdded: 1
+  - englishText: I'm not wearing any!
+    japaneseText: "\u306F\u3044\u3063\u3066\u306A\u3044"
+    pointsAdded: 6

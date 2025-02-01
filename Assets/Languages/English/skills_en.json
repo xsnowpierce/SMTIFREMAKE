@@ -1,0 +1,35 @@
+{
+  "element_physical": "Physical",
+  "element_gun": "Gun",
+  "element_fire" : "Fire",
+  "element_ice" : "Ice",
+  "element_electric" : "Electric",
+  "element_force" : "Force",
+  "element_nerve" : "Nerve",
+  "element_expel" : "Expel",
+  "element_curse" : "Curse",
+  "element_almighty" : "Almighty",
+  "element_recovery" : "Recovery",
+  "element_support" : "Support",
+  "element_other" : "Other",
+  
+  "generic_melee": "Melee",
+  "desc_generic_melee": "Use your currently equipped weapon to attack the enemies.",
+  "generic_gun": "Shoot",
+  "desc_generic_gun": "Use your currently equipped gun and bullets to shoot the enemies.",
+  "generic_defend": "Guard",
+  
+  "spell_agi": "Agi",
+  "spell_zio": "Zio",
+  "spell_mazio": "Mazio",
+  
+  "buff_tarukaja": "Tarukaja",
+  
+  "physical_feralbite": "Feral Bite",
+  "physical_feralclaw": "Feral Claw",
+  "physical_venombite": "Venom Bite",
+  "physical_cleave": "Cleave",
+  "physical_stunbite": "Stun Bite",
+  
+  "other_callally": "Call Ally"
+}
