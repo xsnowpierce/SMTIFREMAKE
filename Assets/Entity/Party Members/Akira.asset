@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73935d76369911345b111c7d1b866db9, type: 3}
+  m_Name: Akira
+  m_EditorClassIdentifier: 
+  entityName: akira
+  sprites:
+  - {fileID: -1771893711, guid: 9f884baed611a7e47a39687ece524d60, type: 3}
+  spriteSpeed: 1
+  spriteHeight: 0
+  level: 1
+  health: 19
+  mana: 7
+  skills: []
+  currentStatus: 0
+  stats:
+    strength: 0
+    intelligence: 0
+    magic: 0
+    vitality: 0
+    agility: 0
+    luck: 0
+  currentXP: 0
+  equipment:
+    helmet: {fileID: 0}
+    body: {fileID: 0}
+    arms: {fileID: 0}
+    legs: {fileID: 0}
+    meleeWeapon: {fileID: 0}
+    firearmWeapon: {fileID: 0}
+    bullet: {fileID: 0}
+  currentGuardian: {fileID: 0}

@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73e2aa1975b48a443ab0183fb67d9d76, type: 3}
+  m_Name: Yoshitsune
+  m_EditorClassIdentifier: 
+  entityName: yoshitsune
+  race: 35
+  sprites:
+  - {fileID: 21300000, guid: 286556a2741aea74eb19878dddf820d7, type: 3}
+  spriteSpeed: 1
+  spriteHeight: 0
+  level: 57
+  health: 9999
+  mana: 9999
+  currentXP: 0
+  skills:
+  - {fileID: 11400000, guid: c0b4bb32ba1ffb64a8426d4606e0c679, type: 2}
+  - {fileID: 11400000, guid: b322532b230911c4b8c460548e6e1429, type: 2}
+  - {fileID: 11400000, guid: 62342fe1468b083458edc89063871bf6, type: 2}
+  - {fileID: 11400000, guid: 62342fe1468b083458edc89063871bf6, type: 2}
+  currentStatus: 0
+  stats:
+    strength: 20
+    intelligence: 15
+    magic: 12
+    vitality: 11
+    agility: 23
+    luck: 10
+  Resistances:
+    physical: 2
+    gun: 0
+    fire: 1
+    ice: 0
+    electricity: 0
+    force: 0
+    nerve: 0
+    expel: 2
+    curse: 1
+    almighty: 0
+  magical: 0
+  bind: 0
+  aiType: {fileID: 11400000, guid: d1a6572e049d4be46803b3d4cbbf52ef, type: 2}
+  meleeAttackType: 1
+  costPerTurn: 7
+  inheritType: 0
+  droppedItems: []
+  darkLight: 0
+  chaosLaw: 0

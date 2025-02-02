@@ -1,0 +1,227 @@
+{
+   "nobody_here": "There doesn't seem to be anyone here...",
+   "response_common_yes":"Yes",
+   "response_common_no":"No",
+   
+   "battle_no_target": "There was no target alive.",
+   "battle_no_comp": "You do not have a comp!",
+   "battle_affinity_null": "NULL",
+   "inventory_no_equip": "Nothing equipped.",
+   "levelup_point_text": "You have leveled up! Select which stats to increase with your {POINTS} point(s).",
+   
+   "worldmap_male_01":"I guess it's that time again, to take the station to school...",
+   
+   "worldmap_female_01":"Hey, your uniform... You must go to school with that guy that just bumped into me!",
+   "worldmap_female_02":"He made me drop my things and just kept on walking while talking to himself, something about getting revenge...",
+   
+   "nova_dialogue_01":"I am a virtual fortune teller. Welcome to my virtual world. So, you wish me to do a reading? Very well...",
+   "nova_dialogue_02":"First, please tell me your name.",
+   
+   "nova_dialogue_03":"Now, please tell me your gender.",
+   "nova_question_01_answer_01":"Male",
+   "nova_question_01_answer_02":"Female",
+   
+   "nova_question_02":"Do you like video games?",
+   "nova_question_02_answer_01":"I love video games!",
+   "nova_question_02_answer_02":"I guess they're okay.",
+   "nova_question_02_answer_03":"I don't like video games.",
+   "nova_question_02_answer_04":"What is a video game?",
+   
+   "nova_question_03":"Which club are you in?",
+   "nova_question_03_answer_01":"Sports Club",
+   "nova_question_03_answer_02":"Culture Club",
+   "nova_question_03_answer_03":"I just go home...",
+   "nova_question_03_answer_04":"I don't know.",
+   
+   "nova_question_04":"Do you finish your homework?",
+   "nova_question_04_answer_01":"Always!",
+   "nova_question_04_answer_02":"I often forget to do it...",
+   "nova_question_04_answer_03":"I never do my homework!",
+   "nova_question_04_answer_04":"I don't know.",
+   
+   "nova_question_05":"Do you ever forget things?",
+   "nova_question_05_answer_01":"Never!",
+   "nova_question_05_answer_02":"Sometimes, yeah.",
+   "nova_question_05_answer_03":"I often do.",
+   "nova_question_05_answer_04":"What was the question again?",
+   
+   "nova_question_06":"What is your favourite subject?",
+   "nova_question_06_answer_01":"Grammar",
+   "nova_question_06_answer_02":"Math",
+   "nova_question_06_answer_03":"Social Studies",
+   "nova_question_06_answer_04":"Science",
+   "nova_question_06_answer_05":"I don't have one.",
+   "nova_question_06_answer_06":"I don't know.",
+   
+   "nova_question_07":"And your favourite sport?",
+   "nova_question_07_answer_01":"Baseball",
+   "nova_question_07_answer_02":"Soccer",
+   "nova_question_07_answer_03":"Boxing",
+   "nova_question_07_answer_04":"Pro Wrestling",
+   "nova_question_07_answer_05":"I don't have one.",
+   "nova_question_07_answer_06":"I don't know.",
+   
+   "nova_question_08":"How often do you use your pager?",
+   "nova_question_08_answer_01":"I use it all the time!",
+   "nova_question_08_answer_02":"I don't use it too often.",
+   "nova_question_08_answer_03":"I don't have a pager.",
+   "nova_question_08_answer_04":"What is a pager?",
+   
+   "nova_question_09":"What do you do on your days off?",
+   "nova_question_09_answer_01":"I play outside.",
+   "nova_question_09_answer_02":"I play inside.",
+   "nova_question_09_answer_03":"I read quietly.",
+   "nova_question_09_answer_04":"I don't know.",
+   
+   "nova_question_10":"How big are your social gatherings?",
+   "nova_question_10_answer_01":"I enjoy being alone.",
+   "nova_question_10_answer_02":"Two or three people max.",
+   "nova_question_10_answer_03":"I love being in crowds!",
+   "nova_question_10_answer_04":"I don't know how to count.",
+   
+   "nova_question_11":"If you found a wallet with 10,000 yen in it, what would you do?",
+   "nova_question_11_answer_01":"Take it to the police station.",
+   "nova_question_11_answer_02":"Keep it to myself.",
+   "nova_question_11_answer_03":"Split the cash with friends.",
+   "nova_question_11_answer_04":"Throw away the money, keep the wallet",
+   
+   "nova_question_12":"What type of clothes are your style?",
+   "nova_question_12_answer_01":"Something expensive.",
+   "nova_question_12_answer_02":"Comfortability first.",
+   "nova_question_12_answer_03":"Whatever is in the value bin!",
+   "nova_question_12_answer_04":"Who needs clothes?!",
+   
+   "give_item": "You have received {ITEM} x{AMOUNT}.",
+   "find_item": "You have found {ITEM} x{AMOUNT}.",
+   
+   "upstairs_dialogue":"Are you sure you would like to go upstairs?",
+   "downstairs_dialogue":"Are you sure you would like to go downstairs?",
+   
+   "school_2f_discipline_01":"You may not pass! I'm with the school's disciplinary committee. You have to do what I say!",
+   "school_2f_discipline_02":"By the way, have you seen Akira Miyamoto from 2-C around? I saw him skulking about the school earlier.",
+   "school_2f_discipline_03":"He was really intent on something, like he was carrying out some plan he had up his sleeve...",
+   
+   "school_medical_first_01":"Ah, {PLAYERNAME} from 2-D!",
+   "school_medical_first_02":"I'd ask what you need in the infirmary, but it's not the time for that.",
+   "school_medical_first_03":"I have no clue what's going on out there. Do you know anything?",
+   "school_medical_first_04":"If you're not feeling well, I'll heal what ails you.",
+   "school_medical_first_05":"{PLAYERNAME}'s group feels much better.",
+   "school_medical_first_06":"Please be careful. Don't do anything dangerous!",
+   "school_medical_first_07":"I'm worried about you, so take this...",
+   "school_medical_first_08":"I want everyone in the school to be safe... So please, take care.",
+   
+   "school_principaloffice_01":"What homeroom are you from? You shouldn't enter the principal's office uninvited!",
+   
+   "school_music_taken_01":"Hmm? I see you're with Shirakawa.",
+   "school_music_taken_02":"Shirakawa, I'm surprised to see you trying to save the school. But you're just wasting your time...",
+   "school_music_taken_03":"Hmph! Just stay in the classroom and don't ruffle yourself, princess.",
+   
+   "baseball_01": "A couple of students left the school trying to get home, but not a single one has returned.",
+   "baseball_02": "... The whole school is kinda like the first village in an RPG, don't you think?",
+   
+   "football_01": "So did you hear? There are monsters in the gym!",
+   "football_02": "I wonder if that has anything to do with that creepy-ass ceremonial getup in there...",
+   "football_03": "Anyways, people have been coming in here and picking up anything that remotely looks like a weapon.",
+   "football_04": "Not sure you'll have much luck searching.",
+   
+   "hockey_01": "Hazama's a creep.",
+   "hockey_02": "You know how they say there's a fine line between genius and insanity? Dude's WAY beyond that.",
+   "hockey_03": "He's up to something, using demons and black magic and all that garbage.",
+   
+   "sumo_01": "Oh great, today was such a wonderful day to leave my Mawashi belt outside to dry.",
+   "sumo_02": "I wonder what happened to it...",
+   
+   "store_01": "Wh-who's there!?",
+   "store_02": "... Whew, it's just you, {PLAYERNAME}.",
+   "store_03": "It's me, Ryuichi.",
+   "store_04": "... Is this a friend of yours...?",
+   "store_05": "Yeah, it's {PLAYERNAME} from 2-D.",
+   "store_06": "Akiko's here with me. There was some monster in the gym, so the two of us are hiding out here.",
+   "store_07": "Ryuichi, I'm scared...",
+   "store_08": "Don't worry, I won't let anything happen to you.",
+   "store_09": ".....",
+   "store_10": "Don't scare us like that!",
+   "store_11": "... We were finally together all alone...",
+   
+   "room_search": "Will you search the room?",
+   "room_search_end": "You couldn't find anything else.",
+   
+   "school_2a_01":"... Keep it cool man, keep it cool... Just calm down and think...",
+   
+   "school_2b_01":"W-what the hell is going on outside!?",
+   
+   "school_2c_01":"Somebody help!! We're all trapped in the school!",
+   
+   "school_2d_01":"Everyone's just running around in a panic, which isn't going to do anyone any good.",
+   "school_2d_02":"Come to think of it, Reiko Akanezawa over from 1-B is trying to do something about this, but I can't imagine that prissy chick being able to accomplish anything.",
+   "school_2d_03":"Anyway... If we don't do something, we're all going to die! At least, that's the gut feeling I get.",
+   "school_2d_04":"Please! Give me a hand! Let's save the school... and everyone in it...",
+   "school_2d_05":"{PLAYERNAME}, come with me!",
+   "school_2d_06":"Will you go with Yumi?",
+   "school_2d_no_01":"What are you hanging around here for!? And you call yourself a man!?",
+   "school_2d_no_02":"We may never be able to get back if we sit on our butts like this!",
+   "school_2d_yes_01":"Yumi joined your party.",
+   "school_2d_yes_02":"Thanks, let's go! If we don't hurry...!",
+   
+   "school_2d_yumi_01":"So what is the school doing in another dimension? Did someone do this?",
+   "school_2d_yumi_02":"I think we'd better start looking for the answer to that question first.",
+   
+   "school_2e_charlie_01": "You're {PLAYERNAME} from 2-D, right? Calm as ever, I see.",
+   "school_2e_charlie_02": "I'm Shinji Kuroi, but everyone calls me Charlie. Nice to meet you.",
+   "school_2e_charlie_03": "So, you're trying to escape the school somehow, are you?",
+   "school_2e_charlie_04": "I'm getting the hell out of here on my own.",
+   "school_2e_charlie_05": "Everyone here is just running around in a goddamn panic.",
+   "school_2e_charlie_06": "Either that, or they're sitting still, thinking that someone will come and help them--like that'll happen!",
+   "school_2e_charlie_07": "You don't seem to be that dumb though, so if you want I'll work with you. What do you say?",
+   "school_2e_charlie_08": "Will you go with Charlie?",
+   "school_2e_charlie_no_01": "I see... Well, if you change your mind, I'm gonna hang out here just a little longer.",
+   "school_2e_charlie_no_02": "But if we don't do something, this school is gonna stay shut up forever.",
+   "school_2e_charlie_yes_01": "Charlie joined your party.",
+   "school_2e_charlie_yes_02": "Right then, let's go!",
+   "school_2e_charlie_yes_03": "Some weird-ass monsters have been around, so I got some stuff that should work as makeshift weapons.",
+   "school_2e_charlie_yes_04": "Once you get something, let's go.",
+   
+   "school_2e_charlie_joined_01": "No guarantee that the school is going to stay safe!",
+   
+   "school_2e_01":"It looks like someone had some sort of occult ceremony in the gym. I wonder who it was?",
+   
+   "school_2f_01":"I saw Hazama in the hallway! He was glowing, like a ghost or something!",
+   
+   "school_2g_01":"That Otsuki! You know, the science teacher? Totally creeps me out!",
+   "school_2g_02":"Dude stays holed up in his little lab all day long doing... well, I don't know what, but SOMETHING.",
+   "school_2g_03":"Something's messed up when a guy like that ends up in charge of the disciplinary committee.",
+   
+   "school_2h_01": "Oh, {PLAYERNAME}. Good to see you keeping your wits about you in a time like this.",
+   "school_2h_02": "I, on the other hand, have no idea what to do. And I just bought a brand new laptop with my bonus...",
+   "school_2h_03": "Why am I worrying about that at a time like this? ... Ah, I guess I'm not much of a teacher.",
+   "school_2h_04": "I'm just paralyzed and can't do anything... What should I do...",
+   
+   "school_heeho_empty":"This room seems to be empty...",
+   "school_heeho_recruit_01":"Man, school is so much fun! I love school, hee-ho! ... Eh?",
+   "school_heeho_recruit_02":"I know, I know, regular students shouldn't be saying \"hee-ho\" over and over again. School is such fun!",
+   "school_heeho_recruit_03":"Hee-ho... Ah! There I go again!",
+   "school_heeho_recruit_04":"Hee-ho, hee-ho, hee-ho?",
+   "school_heeho_recruit_05":"Hey, hey, where are you going? Take me with you!",
+   "school_heeho_recruit_06":"Will you take Hee-ho-kun with you?",
+   
+   "school_heeho_recruit_yes_01":"Hee-ho-kun joined your party.",
+   "school_heeho_recruit_yes_02":"Yay! Yay! I'm so happy, hee-ho!",
+   
+   "school_music_01": "I-I saw a demon in the gym!! God, it was terrifying!",
+   
+   "school_science_01": "You should not walk around the school by yourself.",
+   "school_science_02": "There hasn't been any indication that it's safe for plasma bodies.",
+   "school_science_03": "There's no scientific basis to say that walking around by yourself is safe.",
+   
+   "school_complab_01": "... Damn! There's no dial tone... I can't contact anyone!",
+   "school_complab_02": "Do you want something? Sorry, but this just isn't the time for it.",
+   
+   "school_janitor_01": "I thought I'd clean up the entryway, but when I got outside, it suddenly was very dark!",
+   "school_janitor_02": "I got freaked out and came back inside.",
+   
+   "save_progress": "Will you save your progress?",
+   "save_finished": "The game has been saved.",
+   
+   "dimensionalportal_01": "You stand in front of a dimensional rift, and cannot go outside..."
+   
+}

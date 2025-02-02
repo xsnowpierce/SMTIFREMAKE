@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7092a21c79789bc4c84995a5da33debd, type: 3}
+  m_Name: Computer Lab
+  m_EditorClassIdentifier: 
+  roomPrefab: {fileID: 2173252184773394853, guid: 4e7900e9f90b9d140ac332d85a37b050, type: 3}
+  spritePosition: {x: 0, y: -2.22, z: 27.94}
+  playerPosition: {x: 0, y: 0.5, z: 3}
+  nearClipPlane: 14.9
+  farClipPlane: 50
+  FOV: 22.1

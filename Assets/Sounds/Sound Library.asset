@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ade359b097f84e344877a2330055da31, type: 3}
+  m_Name: Sound Library
+  m_EditorClassIdentifier: 
+  sfxLibraryName: Base
+  sounds:
+  - id: footstep
+    clips:
+    - {fileID: 8300000, guid: d88610733e3b75b4eba420714515b336, type: 3}
+    - {fileID: 8300000, guid: 92cd32aa2feda674d950853e690406a2, type: 3}
+    - {fileID: 8300000, guid: b6bd9712086beee49b186d097652d806, type: 3}
+    volume: 0.4
+  - id: collision
+    clips:
+    - {fileID: 8300000, guid: 5260918db9385cb44be0cfd99acda28c, type: 3}
+    volume: 0.3
+  - id: slidingDoor
+    clips:
+    - {fileID: 8300000, guid: 277b6769e70881341a1af9f6123dd268, type: 3}
+    - {fileID: 8300000, guid: 2c6112d36f39a8f44a53400b2cc8ac9b, type: 3}
+    - {fileID: 8300000, guid: 24dab7aa85f5fa743bc9f17ea1cc4c92, type: 3}
+    volume: 0.3
+  - id: stairsFootstep
+    clips:
+    - {fileID: 8300000, guid: 94748382d62485e458d3a919e89bcbd6, type: 3}
+    volume: 0.4
+  - id: typing
+    clips:
+    - {fileID: 8300000, guid: b807c1c2e0803894e99a6d4829157375, type: 3}
+    volume: 0.7
+  - id: dialogueSubmit
+    clips:
+    - {fileID: 8300000, guid: fba8542e4c13be54a8351ea9f5ed1563, type: 3}
+    volume: 0.4
+  - id: dialogueFinish
+    clips: []
+    volume: 0.4
+  - id: ui_select
+    clips:
+    - {fileID: 8300000, guid: 0b62f851cf3b78042b75eb2d20ae1333, type: 3}
+    volume: 1
+  - id: ui_move
+    clips:
+    - {fileID: 8300000, guid: 9d39970a4d9265e45904ba86a5527d04, type: 3}
+    volume: 1
+  - id: ui_cancel
+    clips:
+    - {fileID: 8300000, guid: 95e020293b0e3c345a97b496d45548b8, type: 3}
+    volume: 1
+  - id: enemy_death
+    clips:
+    - {fileID: 8300000, guid: e7ecbc27ba80beb4aa9e18611f636e7c, type: 3}
+    volume: 1
+  - id: enemy_hit
+    clips:
+    - {fileID: 8300000, guid: 8d4b6a06e8de2fe44ae2eff4e61d4763, type: 3}
+    volume: 1
+  - id: attack_debuff
+    clips:
+    - {fileID: 8300000, guid: c6dbb2df33b67cd479da74fa47f25a30, type: 3}
+    volume: 1
+  - id: party_hit
+    clips:
+    - {fileID: 8300000, guid: d7c6e64defe6b804db27164dc9919873, type: 3}
+    volume: 1
+  - id: levelup_ping
+    clips:
+    - {fileID: 8300000, guid: 245c674f9fb6b6549af0ca25a1c08874, type: 3}
+    volume: 1
+  - id: levelup_xpgain
+    clips:
+    - {fileID: 8300000, guid: 2aaf1d308ccc46b4488e6650a6b697d6, type: 3}
+    volume: 0.7

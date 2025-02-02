@@ -1,0 +1,44 @@
+namespace Entity
+{
+    public enum DemonRace
+    {
+        Human,
+        Herald,
+        Amatsu,
+        Avian,
+        Megami,
+        Deity,
+        Avatar,
+        Holy,
+        Element,
+        Fury,
+        Dragon,
+        Lady,
+        Kunitsu,
+        Divine,
+        Flight,
+        Snake,
+        Yoma,
+        Beast,
+        Night,
+        Jirae,
+        Fairy,
+        Fallen,
+        Brute,
+        Femme,
+        Vile,
+        Raptor,
+        Jaki,
+        Wilder,
+        Wood,
+        Undead,
+        Tyrant,
+        Drake,
+        Haunt,
+        Spirit,
+        Foul,
+        Fiend,
+        DemonGodEmperor
+    }
+    
+}

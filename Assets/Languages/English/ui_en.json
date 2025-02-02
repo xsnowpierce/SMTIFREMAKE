@@ -1,0 +1,22 @@
+{
+   "battle_main_fight": "Engage in combat against the enemies.",
+   "battle_main_talk": "Attempt negotiation with the enemies.",
+   "battle_main_comp": "Idk what this will do yet lol",
+   "battle_main_escape": "Try to escape from the battle.",
+   "battle_main_auto": "Auto-select melee options against the opponents until cancelled.",
+   
+   "battle_demon_attack":"Select a skill to use.",
+   "battle_demon_return":"Return this demon to your stock.",
+   "battle_demon_guard":"Guard against the enemy's attacks this turn.",
+   
+   "battle_protag_attack": "Select a skill to use.",
+   "battle_protag_summon":"Summon a demon from your current stock into battle.",
+   "battle_protag_item":"Select an item from your inventory to use.",
+   "battle_protag_move": "Change positions of two party members.",
+   "battle_protag_guard": "Guard against the enemy's attacks this turn.",
+   
+   "battle_human_attack": "Select a skill to use.",   
+   "battle_human_item":"Select an item from your inventory to use.",
+   "battle_human_move": "Change positions of two party members.",
+   "battle_human_guard": "Guard against the enemy's attacks this turn."
+}

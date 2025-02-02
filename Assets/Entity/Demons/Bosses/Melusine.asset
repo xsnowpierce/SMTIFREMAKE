@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73e2aa1975b48a443ab0183fb67d9d76, type: 3}
+  m_Name: Melusine
+  m_EditorClassIdentifier: 
+  entityName: melusine
+  race: 17
+  sprites:
+  - {fileID: -973614475, guid: 24fff9b9b2907614c97f87bfa61eafdd, type: 3}
+  - {fileID: 1056173590, guid: 24fff9b9b2907614c97f87bfa61eafdd, type: 3}
+  spriteSpeed: 0.7
+  spriteHeight: 0
+  level: 11
+  health: 999
+  mana: 999
+  currentXP: 0
+  skills:
+  - {fileID: 11400000, guid: e6deef06d95de0f4b99176dce39300e9, type: 2}
+  currentStatus: 0
+  stats:
+    strength: 7
+    intelligence: 10
+    magic: 10
+    vitality: 6
+    agility: 6
+    luck: 5
+  Resistances:
+    physical: 0
+    gun: 0
+    fire: 0
+    ice: 1
+    electricity: 1
+    force: 0
+    nerve: 2
+    expel: 2
+    curse: 2
+    almighty: 0
+  magical: 0
+  bind: 0
+  aiType: {fileID: 11400000, guid: d1a6572e049d4be46803b3d4cbbf52ef, type: 2}
+  meleeAttackType: 1
+  costPerTurn: 15
+  inheritType: 0
+  droppedItems: []
+  darkLight: 0.5
+  chaosLaw: 0.5
